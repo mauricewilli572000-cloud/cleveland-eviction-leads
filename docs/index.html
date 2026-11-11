@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cleveland Eviction Leads</title>
+<style>
+  :root { --bg:#f7f7f5; --fg:#1d1d1b; --mute:#6b6b66; --card:#fff; --line:#e2e2dc; --hot:#b3261e; --warm:#b26a00; --ok:#3d6b2f; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161615; --fg:#ecece8; --mute:#9a9a93; --card:#1f1f1d; --line:#33332f; --hot:#ff8a80; --warm:#ffb74d; --ok:#9ccc65; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.45 system-ui,sans-serif; }
+  header { padding:16px; } h1 { margin:0 0 4px; font-size:20px; } .meta, small { color:var(--mute); }
+  .bar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; padding:0 16px 12px; }
+  .bar input, .bar select { padding:6px 8px; border:1px solid var(--line); border-radius:6px; background:var(--card); color:var(--fg); }
+  .wrap { overflow-x:auto; padding:0 16px 24px; }
+  table { border-collapse:collapse; width:100%; min-width:900px; background:var(--card); }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { cursor:pointer; position:sticky; top:0; background:var(--card); }
+  .HOT { color:var(--hot); font-weight:700; } .WARM { color:var(--warm); font-weight:700; } .COLD { color:var(--ok); }
+  details summary { cursor:pointer; color:var(--mute); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Cleveland eviction leads (tired landlords)</h1>
+  <div class="meta" id="meta">Loading…</div>
+</header>
+<div class="bar">
+  <input type="search" id="q" placeholder="Search landlord, address, case…" size="32">
+  <select id="tier"><option value="">All tiers</option><option>HOT</option><option>WARM</option><option>COLD</option></select>
+  <label><input type="checkbox" id="props" checked> has Cleveland properties</label>
+  <label><input type="checkbox" id="ind"> individuals only</label>
+  <a href="ghl_cleveland_evictions.csv" download>Download GHL CSV</a>
+  <span class="meta" id="count"></span>
+</div>
+<div class="wrap"><table>
+  <thead><tr><th data-k="score">Score</th><th data-k="owner_name">Landlord</th><th data-k="filings_12m">Filings</th>
+  <th data-k="last_filing">Last hearing</th><th data-k="property_count">Properties</th><th>Mailing</th><th>Why</th></tr></thead>
+  <tbody id="body"></tbody>
+</table></div>
+<script>
+let rows = [], sortKey = "score", dir = -1;
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase(), tier = document.getElementById("tier").value;
+  const needProps = document.getElementById("props").checked, ind = document.getElementById("ind").checked;
+  const shown = rows.filter(r => (!tier || r.tier === tier) && (!needProps || r.property_count) && (!ind || r.owner_type === "individual") &&
+    (!q || [r.owner_name, ...(r.property_addresses || []), ...(r.case_numbers || [])].join(" ").toLowerCase().includes(q)))
+    .sort((a, b) => { const x = a[sortKey], y = b[sortKey]; return (typeof x === "number" ? x - y : String(x).localeCompare(String(y))) * dir; });
+  document.getElementById("count").textContent = `${shown.length} of ${rows.length} landlords`;
+  document.getElementById("body").innerHTML = shown.map(r => `<tr>
+    <td class="${r.tier}">${r.score}<br><small>${r.tier}</small></td>
+    <td>${esc(r.owner_name)}<br><small>${esc(r.owner_type)} · ${esc((r.case_numbers || []).slice(0, 3).join(", "))}</small></td>
+    <td>${r.filings_12m}</td><td>${esc(r.last_filing)}</td>
+    <td>${r.property_count ? `<details><summary>${r.property_count}</summary>${(r.property_addresses || []).map(esc).join("<br>")}</details>` : "—"}</td>
+    <td>${esc([r.mailing_street, r.mailing_city, r.mailing_state, r.mailing_zip].filter(Boolean).join(", "))}</td>
+    <td><small>${(r.signals || []).map(esc).join("<br>")}</small></td></tr>`).join("");
+}
+document.querySelectorAll("th[data-k]").forEach(th => th.onclick = () => { const k = th.dataset.k; dir = k === sortKey ? -dir : -1; sortKey = k; render(); });
+["q", "tier", "props", "ind"].forEach(id => document.getElementById(id).addEventListener("input", render));
+fetch("cleveland_evictions.json?v=" + Date.now()).then(r => r.json()).then(d => {
+  rows = d.records; const m = d.meta;
+  document.getElementById("meta").textContent = `Updated ${m.updated_utc} UTC · docket ${m.docket_period || "?"} · ${m.cases} eviction cases kept · source: Cleveland Housing Court docket + Cuyahoga County parcels`;
+  render();
+}).catch(e => { document.getElementById("meta").textContent = "Could not load data: " + e; });
+</script>
+</body>
+</html>
