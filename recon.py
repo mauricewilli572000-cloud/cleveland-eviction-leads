@@ -1,12 +1,20 @@
-import json, re, urllib.parse
+import json, re, io
 from curl_cffi import requests as cr
 S = cr.Session(impersonate="chrome")
-def show(tag, obj): print(f"@@{tag}@@ " + json.dumps(obj, default=str)[:5000])
-def main_part(t):
-    m = re.search(r'<main.*?</main>|id="main-content".*?<footer|<div[^>]+(?:content-area|main-content|page-content)[^>]*>.*?<footer', t, re.S | re.I)
-    return m.group(0) if m else t
-for tag, u in [("public_access", "https://clevelandmunicipalcourt.org/public-access"), ("hc_docket", "https://www.clevelandhousingcourt.org/docket")]:
-    r = S.get(u, timeout=45); t = r.text; mp = main_part(t)
-    body = re.sub(r"<script.*?</script>|<style.*?</style>|<nav.*?</nav>", "", mp, flags=re.S)
-    links = [(re.sub(r"<[^>]+>|\s+", " ", m.group(2)).strip()[:70], urllib.parse.urljoin(str(r.url), m.group(1))) for m in re.finditer(r'href="([^"#]+)"[^>]*>(.*?)</a>', body, re.S)]
-    show(tag, {"st": r.status_code, "text": re.sub(r"<[^>]+>|\s+", " ", body)[:2500], "links": links[:50], "iframes": re.findall(r'<iframe[^>]+src="([^"]+)"', t)})
+def show(tag, obj): print(f"@@{tag}@@ " + json.dumps(obj, default=str)[:6000])
+r = S.get("https://www.clevelandhousingcourt.org/accessible-civil-docket", timeout=60); t = r.text
+rows = re.findall(r"<tr[^>]*>(.*?)</tr>", t, re.S)
+cells = [[re.sub(r"<[^>]+>|\s+", " ", c).strip() for c in re.findall(r"<t[hd][^>]*>(.*?)</t[hd]>", row, re.S)] for row in rows]
+show("civil_docket", {"st": r.status_code, "rows": len(rows), "first": cells[:12], "text": re.sub(r"<script.*?</script>|<[^>]+>|\s+", " ", t)[2000:4500]})
+r = S.get("https://www.clevelandhousingcourt.org/sites/default/files/Criminal%20Cases%20Filed%20Report.xlsx", timeout=60)
+try:
+    import openpyxl
+    wb = openpyxl.load_workbook(io.BytesIO(r.content), read_only=True)
+    ws = wb.worksheets[0]; rr = [[str(c) if c is not None else "" for c in row] for row in ws.iter_rows(values_only=True)]
+    show("criminal_filed", {"st": r.status_code, "n": len(rr), "head": rr[:8]})
+except Exception as e:
+    show("criminal_filed_err", [r.status_code, str(e), r.content[:200].decode("latin-1")])
+r = S.get("https://portal-ohcleveland.tylertech.cloud/CMCPORTAL/", timeout=60); t = r.text
+show("tyler", {"st": r.status_code, "captcha": bool(re.search(r"recaptcha|captcha|hcaptcha", t, re.I)), "links": re.findall(r'href="([^"]+)"', t)[:30]})
+r = S.get("https://portal-ohcleveland.tylertech.cloud/CMCPORTAL/Home/Dashboard/29", timeout=60); t = r.text
+show("tyler_search", {"st": r.status_code, "captcha": bool(re.search(r"recaptcha|captcha|hcaptcha", t, re.I)), "snip": re.sub(r"<script.*?</script>|<[^>]+>|\s+", " ", t)[:800]})
