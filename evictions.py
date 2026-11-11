@@ -11,6 +11,7 @@ import time
 import config
 
 log = logging.getLogger(__name__)
+MATCH_VERSION = 2   # bump when owner matching changes -> portfolios are looked up again
 
 try:
     from curl_cffi import requests as _http
@@ -96,12 +97,25 @@ def owner_patterns(name: str) -> list[str]:
     if not key:
         return []
     if is_entity(name):
-        return [key.replace(" ", "%") + "%"]
+        return [key + "%"]
     toks = key.split()
     if len(toks) < 2:
         return []
     first, last = toks[0], toks[-1]
     return [f"{last}%{first}%"]
+
+
+def owner_matches(landlord: str, owner: str) -> bool:
+    """Is this county owner really the landlord? (LIKE patterns are only a first filter.)"""
+    first_owner = re.split(r"\s*(?:&| AND )\s*", owner.upper())[0]
+    if is_entity(landlord):
+        o, k = landlord_key(first_owner), landlord_key(landlord)
+        rest = o[len(k):].split() if o.startswith(k) else None
+        return rest is not None and len(rest) <= 1          # allow 'II', 'OHIO' etc., not other words
+    toks = landlord_key(landlord).split()
+    first, last = toks[0], toks[-1]
+    o = re.sub(r"[^A-Z ]", " ", first_owner.replace(",", " ")).split()
+    return len(o) >= 2 and o[0] == last and o[1] == first
 
 
 def fetch_portfolio(name: str) -> list[dict]:
@@ -117,6 +131,8 @@ def fetch_portfolio(name: str) -> list[dict]:
             continue
         for f in feats:
             a = f.get("attributes", {})
+            if not owner_matches(name, a.get("deeded_owner") or ""):
+                continue
             pin = str(a.get("parcelpin") or "")
             addr = re.sub(r"\s+", " ", str(a.get("par_addr_all") or "")).strip()
             if pin and addr and not addr.startswith("0 "):

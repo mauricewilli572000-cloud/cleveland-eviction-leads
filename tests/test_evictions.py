@@ -18,7 +18,14 @@ def test_parse_docket():
 
 def test_owner_patterns():
     assert E.owner_patterns("Barbara Welker") == ["WELKER%BARBARA%"]
-    assert E.owner_patterns("Montgomery Street Homes LLC") == ["MONTGOMERY%STREET%HOMES%"]
+    assert E.owner_patterns("Montgomery Street Homes LLC") == ["MONTGOMERY STREET HOMES%"]
+
+
+def test_owner_matches():
+    assert E.owner_matches("James Taylor", "TAYLOR, JAMES A. JR.")
+    assert not E.owner_matches("James Taylor", "TAYLOR, JAMESON S.")
+    assert E.owner_matches("Montgomery Street Homes LLC", "MONTGOMERY STREET HOMES, LLC")
+    assert not E.owner_matches("East Properties LLC", "EAST 55TH PROPERTIES, LLC.")
 
 
 def test_build_leads_excludes_cmha_and_scores_small_individual():

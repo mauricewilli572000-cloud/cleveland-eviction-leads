@@ -57,8 +57,8 @@ def main() -> int:
     queried = 0
     for k, name in landlords.items():
         hit = cache.get(k)
-        if hit is None or hit.get("checked", "") < stale:
-            cache[k] = {"checked": today.isoformat(), "properties": E.fetch_portfolio(name)}
+        if hit is None or hit.get("checked", "") < stale or hit.get("v") != E.MATCH_VERSION:
+            cache[k] = {"checked": today.isoformat(), "v": E.MATCH_VERSION, "properties": E.fetch_portfolio(name)}
             queried += 1
     log.info("Landlords: %d (%d portfolios looked up this run)", len(landlords), queried)
 
