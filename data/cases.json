@@ -476,7 +476,7 @@
 "plaintiff": "Richard Willis",
 "defendant": "Tanya Grant",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-16",
+"hearing_date": "2026-11-13",
 "first_seen": "2026-11-11"
 },
 "2026-CVG-017124": {
@@ -596,7 +596,7 @@
 "plaintiff": "Joseph Bracamontes",
 "defendant": "Ruby Anderson",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-19",
+"hearing_date": "2026-11-20",
 "first_seen": "2026-11-11"
 },
 "2026-CVG-016594": {
@@ -1476,7 +1476,7 @@
 "plaintiff": "Alba Property Preservation LLC",
 "defendant": "Ashley Carlow",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-23",
+"hearing_date": "2026-11-20",
 "first_seen": "2026-11-11"
 },
 "2026-CVG-018186": {
@@ -1708,7 +1708,7 @@
 "plaintiff": "C&F Monty LLC",
 "defendant": "Dasharee Glenn",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-23",
+"hearing_date": "2026-11-20",
 "first_seen": "2026-11-11"
 },
 "2026-CVG-018248": {
@@ -1756,7 +1756,7 @@
 "plaintiff": "Stockbridge Four LLC",
 "defendant": "Jordan Hill",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-23",
+"hearing_date": "2026-11-20",
 "first_seen": "2026-11-11"
 },
 "2026-CVG-018155": {
@@ -1772,7 +1772,7 @@
 "plaintiff": "Eric Witherspoon",
 "defendant": "Frank Byezewski",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-23",
+"hearing_date": "2026-11-19",
 "first_seen": "2026-11-11"
 },
 "2026-CVG-018161": {
@@ -1812,7 +1812,2319 @@
 "plaintiff": "Ljiljana Mandic",
 "defendant": "Ja'Quis Gray",
 "hearing_type": "Housing Eviction",
-"hearing_date": "2026-10-23",
+"hearing_date": "2026-11-13",
 "first_seen": "2026-11-11"
+},
+"2026-CVG-011258": {
+"case_number": "2026-CVG-011258",
+"plaintiff": "Cross Country Mortgage LLC",
+"defendant": "John Doe",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-012424": {
+"case_number": "2026-CVG-012424",
+"plaintiff": "120 Reed Park LLC",
+"defendant": "Dylan Green",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-013392": {
+"case_number": "2026-CVG-013392",
+"plaintiff": "2125 Superior Holding LLC",
+"defendant": "Tremaine Miller",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-013461": {
+"case_number": "2026-CVG-013461",
+"plaintiff": "Euclid Beach Preservation Owner LLC",
+"defendant": "Andrew Ivory",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-015857": {
+"case_number": "2026-CVG-015857",
+"plaintiff": "Euclid Beach Preservation Owner LLC",
+"defendant": "Bruce Hatcher",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-016481": {
+"case_number": "2026-CVG-016481",
+"plaintiff": "GBKB Property Solutions LLC",
+"defendant": "Allison Gezymalla",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-016964": {
+"case_number": "2026-CVG-016964",
+"plaintiff": "Euclid Beach Preservation Owner LLC",
+"defendant": "Lawrence Lockhart",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-016968": {
+"case_number": "2026-CVG-016968",
+"plaintiff": "Euclid Beach Preservation Owner LLC",
+"defendant": "Bertha Fishee",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-017277": {
+"case_number": "2026-CVG-017277",
+"plaintiff": "Michael Vu",
+"defendant": "Harold Gay",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-017482": {
+"case_number": "2026-CVG-017482",
+"plaintiff": "City Streets Realty LLC",
+"defendant": "Nicole Horne",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019321": {
+"case_number": "2026-CVG-019321",
+"plaintiff": "Bismuth Propco Series LLC- PropCo Reit Series",
+"defendant": "Dominique Taylor",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019327": {
+"case_number": "2026-CVG-019327",
+"plaintiff": "Vincent Gagliardi",
+"defendant": "Allan Adams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019336": {
+"case_number": "2026-CVG-019336",
+"plaintiff": "P3 Estate Holdings LLC",
+"defendant": "Glenzer Perry",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019337": {
+"case_number": "2026-CVG-019337",
+"plaintiff": "Condius Ellis",
+"defendant": "Jazmine Terrance",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019363": {
+"case_number": "2026-CVG-019363",
+"plaintiff": "The Abel-Bishop & Clarke Realty Co",
+"defendant": "Patricia Berry",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019441": {
+"case_number": "2026-CVG-019441",
+"plaintiff": "Frank Harris",
+"defendant": "Elizabeth Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019671": {
+"case_number": "2026-CVG-019671",
+"plaintiff": "Ubiquitous Capital Holdings LLC",
+"defendant": "Sade Tanksley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019927": {
+"case_number": "2026-CVG-019927",
+"plaintiff": "Harjinder Bajwa",
+"defendant": "Enero Cancel, Sr",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019928": {
+"case_number": "2026-CVG-019928",
+"plaintiff": "Mathieu Griffin",
+"defendant": "Aaliyah Laboy",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019932": {
+"case_number": "2026-CVG-019932",
+"plaintiff": "AARIZ LLC",
+"defendant": "Menashe Hawkins",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019933": {
+"case_number": "2026-CVG-019933",
+"plaintiff": "SHAKER SQUARE APARTMENTS LLC",
+"defendant": "Shaitiauna Lashay Finley-Vernon",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019943": {
+"case_number": "2026-CVG-019943",
+"plaintiff": "2809 Van Aken LLC",
+"defendant": "Trina Reese",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019944": {
+"case_number": "2026-CVG-019944",
+"plaintiff": "K & D Management LLC",
+"defendant": "Dion Taylor",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019948": {
+"case_number": "2026-CVG-019948",
+"plaintiff": "Alpha Real Estate LLC",
+"defendant": "Latashiana Graves",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019950": {
+"case_number": "2026-CVG-019950",
+"plaintiff": "K & D Management LLC",
+"defendant": "Mark Hite",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019951": {
+"case_number": "2026-CVG-019951",
+"plaintiff": "Cle Ohio Properties LLC",
+"defendant": "Wanda Brantley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019953": {
+"case_number": "2026-CVG-019953",
+"plaintiff": "Cle Ohio Properties LLC",
+"defendant": "Latoya Pope",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019957": {
+"case_number": "2026-CVG-019957",
+"plaintiff": "RC Home Properties LLC",
+"defendant": "Alissa Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019958": {
+"case_number": "2026-CVG-019958",
+"plaintiff": "Haza Properties LLC",
+"defendant": "Pablo Palacios",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019960": {
+"case_number": "2026-CVG-019960",
+"plaintiff": "2809 Van Aken LLC",
+"defendant": "Mareen Robinson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019965": {
+"case_number": "2026-CVG-019965",
+"plaintiff": "15500 Lakeshore LLC",
+"defendant": "Shanya Williams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019968": {
+"case_number": "2026-CVG-019968",
+"plaintiff": "Marvin Fetalino",
+"defendant": "Javion Sumlin",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019972": {
+"case_number": "2026-CVG-019972",
+"plaintiff": "Next Chapter Capital LLC",
+"defendant": "Glen Hawley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019974": {
+"case_number": "2026-CVG-019974",
+"plaintiff": "KKR Investment Group LLC",
+"defendant": "Jada Mcalpine",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019979": {
+"case_number": "2026-CVG-019979",
+"plaintiff": "99 West Saint Clair Owner, LLC",
+"defendant": "Ming Whitehead-Brown",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019980": {
+"case_number": "2026-CVG-019980",
+"plaintiff": "Western Reserve Property Managemnt",
+"defendant": "Lyndsey Murphy",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019981": {
+"case_number": "2026-CVG-019981",
+"plaintiff": "Norwood Place LLC",
+"defendant": "Adrian Morris",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019982": {
+"case_number": "2026-CVG-019982",
+"plaintiff": "Saeery LLC",
+"defendant": "Aaliyah Sword",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019983": {
+"case_number": "2026-CVG-019983",
+"plaintiff": "Blue Rock Select LLC",
+"defendant": "Eugina Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019984": {
+"case_number": "2026-CVG-019984",
+"plaintiff": "Overland Properties LLC",
+"defendant": "Lashae Taylor",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019985": {
+"case_number": "2026-CVG-019985",
+"plaintiff": "RHM Real Estate Group",
+"defendant": "Lindsay Stanley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019986": {
+"case_number": "2026-CVG-019986",
+"plaintiff": "Joniko Enterprises Inc",
+"defendant": "Benjamin Brother",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019987": {
+"case_number": "2026-CVG-019987",
+"plaintiff": "Premier Mark LLC",
+"defendant": "Christenae Scott",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019989": {
+"case_number": "2026-CVG-019989",
+"plaintiff": "15500 Lakeshore LLC",
+"defendant": "Kirissa Pierce",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019995": {
+"case_number": "2026-CVG-019995",
+"plaintiff": "Icon Property Management",
+"defendant": "Antonio Holmes",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019996": {
+"case_number": "2026-CVG-019996",
+"plaintiff": "All County Neo Property Management",
+"defendant": "Imani Williams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019997": {
+"case_number": "2026-CVG-019997",
+"plaintiff": "Lawrence Properties & Rehab Inc",
+"defendant": "Shannon Woodberry",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019998": {
+"case_number": "2026-CVG-019998",
+"plaintiff": "Johnnie Benson",
+"defendant": "Maria Brown",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019999": {
+"case_number": "2026-CVG-019999",
+"plaintiff": "Home Today LLC",
+"defendant": "Rontaeja Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020000": {
+"case_number": "2026-CVG-020000",
+"plaintiff": "Home Today LLC",
+"defendant": "Belinda Shantz",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020002": {
+"case_number": "2026-CVG-020002",
+"plaintiff": "Wade Burks",
+"defendant": "Gerard Ellington",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020003": {
+"case_number": "2026-CVG-020003",
+"plaintiff": "Duanna Hunter",
+"defendant": "Dave Duncan, III",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020004": {
+"case_number": "2026-CVG-020004",
+"plaintiff": "Rainbow Group Apartments L.P",
+"defendant": "Vernessa Riddle",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020005": {
+"case_number": "2026-CVG-020005",
+"plaintiff": "Rainbow Group Apartments L.P",
+"defendant": "Theresa Harper",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020006": {
+"case_number": "2026-CVG-020006",
+"plaintiff": "Kevin Lockett",
+"defendant": "Shaday Duncan",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020008": {
+"case_number": "2026-CVG-020008",
+"plaintiff": "LML Ohio Properties LLC",
+"defendant": "Latisha Reynolds",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020009": {
+"case_number": "2026-CVG-020009",
+"plaintiff": "LML Ohio Properties LLC",
+"defendant": "Ebone Foster",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020010": {
+"case_number": "2026-CVG-020010",
+"plaintiff": "LML Ohio Properties LLC",
+"defendant": "Angela Bailey",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020011": {
+"case_number": "2026-CVG-020011",
+"plaintiff": "Robert Morgan",
+"defendant": "Amber Purvis",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020012": {
+"case_number": "2026-CVG-020012",
+"plaintiff": "Charles Durden",
+"defendant": "Kenneth Franklin",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020013": {
+"case_number": "2026-CVG-020013",
+"plaintiff": "William Liddell",
+"defendant": "Charles Bradley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-13",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-016727": {
+"case_number": "2026-CVG-016727",
+"plaintiff": "Cassandra Wingfield",
+"defendant": "Aaron Daniels",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-018317": {
+"case_number": "2026-CVG-018317",
+"plaintiff": "Sierra Echo LLC",
+"defendant": "Dontez Tillman",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019417": {
+"case_number": "2026-CVG-019417",
+"plaintiff": "Allstar Management LLC",
+"defendant": "Michael Rice",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019425": {
+"case_number": "2026-CVG-019425",
+"plaintiff": "Allstar Management LLC",
+"defendant": "Keshia Garner",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019443": {
+"case_number": "2026-CVG-019443",
+"plaintiff": "Jerry Rosarion",
+"defendant": "Karen Minter",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019446": {
+"case_number": "2026-CVG-019446",
+"plaintiff": "Sweet Cees Enterprise LLC",
+"defendant": "Shekenna Carson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019449": {
+"case_number": "2026-CVG-019449",
+"plaintiff": "SBAINVESTING LLC",
+"defendant": "Rickell Moorer",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019452": {
+"case_number": "2026-CVG-019452",
+"plaintiff": "AAPK Property Management LLC",
+"defendant": "Brittany Rivera",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019453": {
+"case_number": "2026-CVG-019453",
+"plaintiff": "Realty Trust Services LLC",
+"defendant": "Tala Logan",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020025": {
+"case_number": "2026-CVG-020025",
+"plaintiff": "Shaker Parkway Collective LLC",
+"defendant": "David Cohagen",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020026": {
+"case_number": "2026-CVG-020026",
+"plaintiff": "Shaker Parkway Collective LLC",
+"defendant": "Flora Knox",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020027": {
+"case_number": "2026-CVG-020027",
+"plaintiff": "Dominic Arredondo",
+"defendant": "John Oswald",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020028": {
+"case_number": "2026-CVG-020028",
+"plaintiff": "Shaker Parkway Collective LLC",
+"defendant": "Markia Clark",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020029": {
+"case_number": "2026-CVG-020029",
+"plaintiff": "Euclid Apartments LLC",
+"defendant": "Diamond Parker",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020030": {
+"case_number": "2026-CVG-020030",
+"plaintiff": "Euclid Apartments LLC",
+"defendant": "Chifaun Smiley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020033": {
+"case_number": "2026-CVG-020033",
+"plaintiff": "Shaker Parkway Collective LLC",
+"defendant": "Michael Paulk",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020034": {
+"case_number": "2026-CVG-020034",
+"plaintiff": "Lakeshore 42 Re Holder LLC",
+"defendant": "Tatarra Flunder",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020035": {
+"case_number": "2026-CVG-020035",
+"plaintiff": "Aapk Construction LLC",
+"defendant": "Shirley Miller",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020036": {
+"case_number": "2026-CVG-020036",
+"plaintiff": "Fermin Hospitality LLC",
+"defendant": "Justice Tucker",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020037": {
+"case_number": "2026-CVG-020037",
+"plaintiff": "Aapk Construction LLC",
+"defendant": "Terri Robinson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020038": {
+"case_number": "2026-CVG-020038",
+"plaintiff": "Neo Rental Agent LLC",
+"defendant": "Kimberly Johns",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020039": {
+"case_number": "2026-CVG-020039",
+"plaintiff": "Realty Trust Services LLC",
+"defendant": "Alix Bowker",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020040": {
+"case_number": "2026-CVG-020040",
+"plaintiff": "Shaker Parkway Collective LLC",
+"defendant": "Tina Pearson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020041": {
+"case_number": "2026-CVG-020041",
+"plaintiff": "Sayb Inc",
+"defendant": "Tim Lazarus",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020076": {
+"case_number": "2026-CVG-020076",
+"plaintiff": "Ephraim Landesman",
+"defendant": "Kaleena Conners",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020078": {
+"case_number": "2026-CVG-020078",
+"plaintiff": "Robbie Willis",
+"defendant": "James Thomas",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020089": {
+"case_number": "2026-CVG-020089",
+"plaintiff": "Thomas Ginter",
+"defendant": "Rosie Alexander",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020096": {
+"case_number": "2026-CVG-020096",
+"plaintiff": "Northpoint Asset Management, LLC",
+"defendant": "Jeremy Oberacker",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020097": {
+"case_number": "2026-CVG-020097",
+"plaintiff": "Northpoint Asset Management, LLC",
+"defendant": "Ellery Smith",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020098": {
+"case_number": "2026-CVG-020098",
+"plaintiff": "Grondin Properties Group LLC",
+"defendant": "Larry Simpson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020099": {
+"case_number": "2026-CVG-020099",
+"plaintiff": "Groundin Properties Group LLC",
+"defendant": "Denise Myles",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020102": {
+"case_number": "2026-CVG-020102",
+"plaintiff": "Hazel Valley Homes",
+"defendant": "Erica Clark",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-16",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-018929": {
+"case_number": "2026-CVG-018929",
+"plaintiff": "Vickie Chan",
+"defendant": "Jane Doe",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019119": {
+"case_number": "2026-CVG-019119",
+"plaintiff": "Emerald Development And Economic Network Inc",
+"defendant": "Kimberly Silva",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019664": {
+"case_number": "2026-CVG-019664",
+"plaintiff": "Cleveland Re Holdings LLC",
+"defendant": "Kyana Wallace",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020166": {
+"case_number": "2026-CVG-020166",
+"plaintiff": "Cormere Properties LTD",
+"defendant": "Jayden Mcgee",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020173": {
+"case_number": "2026-CVG-020173",
+"plaintiff": "Cormere Properties LTD",
+"defendant": "Monique Marshall",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020178": {
+"case_number": "2026-CVG-020178",
+"plaintiff": "AK Franklin My Place LLC",
+"defendant": "Kitty Still",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020179": {
+"case_number": "2026-CVG-020179",
+"plaintiff": "AK Franklin My Place LLC",
+"defendant": "Ashanti Mckenney",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020180": {
+"case_number": "2026-CVG-020180",
+"plaintiff": "Grandview Pointe Apartments",
+"defendant": "December Seawood",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020181": {
+"case_number": "2026-CVG-020181",
+"plaintiff": "NRP Management LLC",
+"defendant": "Asia Davis",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020182": {
+"case_number": "2026-CVG-020182",
+"plaintiff": "NRP Management LLC",
+"defendant": "Shakira Holloway",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020183": {
+"case_number": "2026-CVG-020183",
+"plaintiff": "NRP Management LLC",
+"defendant": "Randal Robinson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020184": {
+"case_number": "2026-CVG-020184",
+"plaintiff": "Grandview Pointe Apartments",
+"defendant": "Antwan Thompkins, Jr",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020186": {
+"case_number": "2026-CVG-020186",
+"plaintiff": "NRP Management LLC",
+"defendant": "Tanisha Whitlow",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020190": {
+"case_number": "2026-CVG-020190",
+"plaintiff": "NRP Management LLC",
+"defendant": "Braja Wilson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020193": {
+"case_number": "2026-CVG-020193",
+"plaintiff": "NRP Management LLC",
+"defendant": "Andreana Scott",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020194": {
+"case_number": "2026-CVG-020194",
+"plaintiff": "NRP Management LLC",
+"defendant": "Chamia Hickman-Mcgraw",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020195": {
+"case_number": "2026-CVG-020195",
+"plaintiff": "NRP Management LLC",
+"defendant": "Jawana Holley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020198": {
+"case_number": "2026-CVG-020198",
+"plaintiff": "NRP Management LLC",
+"defendant": "Fantaisa Pettis",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020220": {
+"case_number": "2026-CVG-020220",
+"plaintiff": "OEC Real Estate LLC",
+"defendant": "Myanna Whitfield",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020221": {
+"case_number": "2026-CVG-020221",
+"plaintiff": "Tomika Jones-McFarlane",
+"defendant": "Demetrius Latham",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020223": {
+"case_number": "2026-CVG-020223",
+"plaintiff": "Makupson Investment Corp LLC",
+"defendant": "Marcia Hines",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020225": {
+"case_number": "2026-CVG-020225",
+"plaintiff": "Colonnade Properties LLC",
+"defendant": "Loletha Turner",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020226": {
+"case_number": "2026-CVG-020226",
+"plaintiff": "Unified Management LLC",
+"defendant": "Ebony Mills",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020227": {
+"case_number": "2026-CVG-020227",
+"plaintiff": "Colonnade Properties LLC",
+"defendant": "Kimberly Mann",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020228": {
+"case_number": "2026-CVG-020228",
+"plaintiff": "MJRE Real Estate Ohio LLC",
+"defendant": "Bryan Adkins",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020229": {
+"case_number": "2026-CVG-020229",
+"plaintiff": "Colonnade Properties LLC",
+"defendant": "Raymond Calloway",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020230": {
+"case_number": "2026-CVG-020230",
+"plaintiff": "Srinivas Bhayankaram",
+"defendant": "Jodi Mullins",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020231": {
+"case_number": "2026-CVG-020231",
+"plaintiff": "DLP VI INC",
+"defendant": "Katrina Harris",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020232": {
+"case_number": "2026-CVG-020232",
+"plaintiff": "Spence LLC",
+"defendant": "Shaia Marshall",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020233": {
+"case_number": "2026-CVG-020233",
+"plaintiff": "3288 W 52nd LLC",
+"defendant": "Ashley Colflesh",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020235": {
+"case_number": "2026-CVG-020235",
+"plaintiff": "Fidelis Real Estate LLC",
+"defendant": "Diamond Bailey",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020236": {
+"case_number": "2026-CVG-020236",
+"plaintiff": "Macal Family Holdings LLC",
+"defendant": "Virginia Baker",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020237": {
+"case_number": "2026-CVG-020237",
+"plaintiff": "J&C Lee Enterprises LLC",
+"defendant": "John Doe",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020238": {
+"case_number": "2026-CVG-020238",
+"plaintiff": "Cleveland Property Management Group LLC",
+"defendant": "Carmencita Hernandez",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020239": {
+"case_number": "2026-CVG-020239",
+"plaintiff": "Muhammad Anwar",
+"defendant": "Monica Good",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020240": {
+"case_number": "2026-CVG-020240",
+"plaintiff": "Euclid Apartments LLC",
+"defendant": "Thaddeus Willson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020241": {
+"case_number": "2026-CVG-020241",
+"plaintiff": "J&C Lee Enterprises LLC",
+"defendant": "John Doe",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020242": {
+"case_number": "2026-CVG-020242",
+"plaintiff": "The Ohio Project LLC",
+"defendant": "Erin Kitchen",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020243": {
+"case_number": "2026-CVG-020243",
+"plaintiff": "RAL Property Management LLC",
+"defendant": "Timothy Stevens",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020244": {
+"case_number": "2026-CVG-020244",
+"plaintiff": "Krimson Konsulting LLC",
+"defendant": "Shanicqa Roberts",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020245": {
+"case_number": "2026-CVG-020245",
+"plaintiff": "Maurice Smith",
+"defendant": "Jessica Cosmo",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020246": {
+"case_number": "2026-CVG-020246",
+"plaintiff": "Alec Gonzalez",
+"defendant": "Janet Spragin",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020247": {
+"case_number": "2026-CVG-020247",
+"plaintiff": "Jaydelm LLC",
+"defendant": "Myishea Mcglothin",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020248": {
+"case_number": "2026-CVG-020248",
+"plaintiff": "GMD Management Services LLC",
+"defendant": "Jennifer Davenport",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020249": {
+"case_number": "2026-CVG-020249",
+"plaintiff": "Royal Road Ventures LLC",
+"defendant": "Stacey Spears",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020250": {
+"case_number": "2026-CVG-020250",
+"plaintiff": "Paisano Properties, Inc",
+"defendant": "Mackenzie Rinaldi",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020251": {
+"case_number": "2026-CVG-020251",
+"plaintiff": "J & J Ivestments Of Ohio Inc",
+"defendant": "Isaiah Redmond",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020254": {
+"case_number": "2026-CVG-020254",
+"plaintiff": "Kenmore Commons Limited Partnership",
+"defendant": "Tasha Richardson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020256": {
+"case_number": "2026-CVG-020256",
+"plaintiff": "Ohio City Legacy LLC",
+"defendant": "Michael Curran",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020257": {
+"case_number": "2026-CVG-020257",
+"plaintiff": "SP Lake Avenue LLC",
+"defendant": "Marchae Teague",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020258": {
+"case_number": "2026-CVG-020258",
+"plaintiff": "Shaker House Limited Liability Company",
+"defendant": "Maurice Smith",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020259": {
+"case_number": "2026-CVG-020259",
+"plaintiff": "Shaker House Limited Liability Company",
+"defendant": "Tatianna Williams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020260": {
+"case_number": "2026-CVG-020260",
+"plaintiff": "Hameed Thornton",
+"defendant": "Jacquetta Lamb",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020261": {
+"case_number": "2026-CVG-020261",
+"plaintiff": "Shaker House Limited Liability Company",
+"defendant": "Edlonzo Rowell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-17",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019654": {
+"case_number": "2026-CVG-019654",
+"plaintiff": "GIG6 LLC",
+"defendant": "Donald Janovski",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019659": {
+"case_number": "2026-CVG-019659",
+"plaintiff": "Bismuth PropCo Series LLC",
+"defendant": "Jose Vargas",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020267": {
+"case_number": "2026-CVG-020267",
+"plaintiff": "Hung Vu",
+"defendant": "Jean Kessel",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020268": {
+"case_number": "2026-CVG-020268",
+"plaintiff": "9107 McCracken LLC",
+"defendant": "Linda Pruitt",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020269": {
+"case_number": "2026-CVG-020269",
+"plaintiff": "Signet LLC",
+"defendant": "Oneil Simpson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020270": {
+"case_number": "2026-CVG-020270",
+"plaintiff": "Millennia Housing Management LTD",
+"defendant": "Bobbie Smith",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020271": {
+"case_number": "2026-CVG-020271",
+"plaintiff": "Giovanni Parente",
+"defendant": "Tracy Bell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020272": {
+"case_number": "2026-CVG-020272",
+"plaintiff": "Wolfe Pintus Puritas LLC",
+"defendant": "Abdoulaye Bamba",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020273": {
+"case_number": "2026-CVG-020273",
+"plaintiff": "Millennia Housing Management LTD",
+"defendant": "George Hill, III",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020274": {
+"case_number": "2026-CVG-020274",
+"plaintiff": "Millennia Housing Management LTD",
+"defendant": "Ryan Bowling",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020275": {
+"case_number": "2026-CVG-020275",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Stephey Bates",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020276": {
+"case_number": "2026-CVG-020276",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Adrianna Sullivan",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020278": {
+"case_number": "2026-CVG-020278",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Shakeda Alexander",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020279": {
+"case_number": "2026-CVG-020279",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Safiyyah Hasan",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020280": {
+"case_number": "2026-CVG-020280",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Tebriauna Allen",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020281": {
+"case_number": "2026-CVG-020281",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Elexa Dorsey",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020282": {
+"case_number": "2026-CVG-020282",
+"plaintiff": "Green Legacy Estate LLC",
+"defendant": "Tasmiyah Ani",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020283": {
+"case_number": "2026-CVG-020283",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Cristian Brooks",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020284": {
+"case_number": "2026-CVG-020284",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Stanley Mitchell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020285": {
+"case_number": "2026-CVG-020285",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Alpaso Brown",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020286": {
+"case_number": "2026-CVG-020286",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Jordan Hawthorne",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020287": {
+"case_number": "2026-CVG-020287",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Edward Harris, Jr",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020288": {
+"case_number": "2026-CVG-020288",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "April Burt",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020289": {
+"case_number": "2026-CVG-020289",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Joshua Mondragon",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020290": {
+"case_number": "2026-CVG-020290",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Shaunte Whitlow",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020291": {
+"case_number": "2026-CVG-020291",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Brian Ward",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020292": {
+"case_number": "2026-CVG-020292",
+"plaintiff": "Flats East Building 4 LLC",
+"defendant": "Dwayne Scruggs",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020293": {
+"case_number": "2026-CVG-020293",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Ja'Nyah Dawson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020294": {
+"case_number": "2026-CVG-020294",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Tunisha Oliver",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020295": {
+"case_number": "2026-CVG-020295",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Jayden Dawson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020296": {
+"case_number": "2026-CVG-020296",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Davena Hatcher",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020297": {
+"case_number": "2026-CVG-020297",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Jenny Crockrell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020298": {
+"case_number": "2026-CVG-020298",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Reggie McCallum",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020299": {
+"case_number": "2026-CVG-020299",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Madison Monroe",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020300": {
+"case_number": "2026-CVG-020300",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Keyla Hernandez",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020301": {
+"case_number": "2026-CVG-020301",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Michael Moore",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020302": {
+"case_number": "2026-CVG-020302",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Adreauna Komora",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020303": {
+"case_number": "2026-CVG-020303",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Brent Draper",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020304": {
+"case_number": "2026-CVG-020304",
+"plaintiff": "Elon Property Management Company LLC",
+"defendant": "Patrice Malone",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020318": {
+"case_number": "2026-CVG-020318",
+"plaintiff": "All County Neo Property Management",
+"defendant": "Tabitha Adams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020320": {
+"case_number": "2026-CVG-020320",
+"plaintiff": "All County Neo Property Management",
+"defendant": "Francis Tate",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020332": {
+"case_number": "2026-CVG-020332",
+"plaintiff": "Aris Almaliotis, Jr",
+"defendant": "Kiana Powell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-18",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-015672": {
+"case_number": "2026-CVG-015672",
+"plaintiff": "Grandview Pointe Apts LLC",
+"defendant": "Kamaria Williams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-015673": {
+"case_number": "2026-CVG-015673",
+"plaintiff": "Grandview Pointe Apts LLC",
+"defendant": "Jazzman Chaney",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-016438": {
+"case_number": "2026-CVG-016438",
+"plaintiff": "117 Madison LLC",
+"defendant": "Jason Brooks",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-018678": {
+"case_number": "2026-CVG-018678",
+"plaintiff": "Raymond Dale",
+"defendant": "Jennifer Hemanskey",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-019845": {
+"case_number": "2026-CVG-019845",
+"plaintiff": "Northlake Capital LLC",
+"defendant": "Lallonie Neal",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020407": {
+"case_number": "2026-CVG-020407",
+"plaintiff": "Daniel Hines",
+"defendant": "Charmel Powell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020409": {
+"case_number": "2026-CVG-020409",
+"plaintiff": "RIPARIAN VPC OHIO SFR PORTFOLIO, LLC",
+"defendant": "Jacob Campbell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020410": {
+"case_number": "2026-CVG-020410",
+"plaintiff": "Evernest Holdings, LLC",
+"defendant": "Olivia Reynolds",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020411": {
+"case_number": "2026-CVG-020411",
+"plaintiff": "RIPARIAN VPC OHIO SFR PORTFOLIO, LLC",
+"defendant": "Jacob Campbell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020424": {
+"case_number": "2026-CVG-020424",
+"plaintiff": "All County Neo Property Management",
+"defendant": "Dejuan Samuel",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020425": {
+"case_number": "2026-CVG-020425",
+"plaintiff": "All County Neo Property Management",
+"defendant": "Makhaya Richardson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020426": {
+"case_number": "2026-CVG-020426",
+"plaintiff": "Grover Horne",
+"defendant": "Gales Mahmoud",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020432": {
+"case_number": "2026-CVG-020432",
+"plaintiff": "Ran Romano",
+"defendant": "Mary Leach",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020433": {
+"case_number": "2026-CVG-020433",
+"plaintiff": "HPM Property Management",
+"defendant": "Orlando Jones",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020434": {
+"case_number": "2026-CVG-020434",
+"plaintiff": "HPM Property Management",
+"defendant": "Jayvon Russell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020435": {
+"case_number": "2026-CVG-020435",
+"plaintiff": "HPM Property Management",
+"defendant": "Gabrielle Cloud",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020436": {
+"case_number": "2026-CVG-020436",
+"plaintiff": "HPM Property Management",
+"defendant": "Keva Malachi",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020437": {
+"case_number": "2026-CVG-020437",
+"plaintiff": "HPM Property Management",
+"defendant": "Ryan Lally",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020439": {
+"case_number": "2026-CVG-020439",
+"plaintiff": "Smiley Faces Enterprise LLC",
+"defendant": "Marquell Coleman",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020441": {
+"case_number": "2026-CVG-020441",
+"plaintiff": "KRS PARTNERS, LLC",
+"defendant": "Kandis Brown",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020442": {
+"case_number": "2026-CVG-020442",
+"plaintiff": "Madison Investment Group, LLC",
+"defendant": "Carlos Brown",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020443": {
+"case_number": "2026-CVG-020443",
+"plaintiff": "KKJ LEGACY VENTURES OH, LLC",
+"defendant": "Andree Franks",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020444": {
+"case_number": "2026-CVG-020444",
+"plaintiff": "Frabie, LLC",
+"defendant": "Wallanda Nabaa",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020445": {
+"case_number": "2026-CVG-020445",
+"plaintiff": "Anil Samaroo",
+"defendant": "Daisy Marie",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020446": {
+"case_number": "2026-CVG-020446",
+"plaintiff": "1220 Playhouse Square, LLC",
+"defendant": "Amari Henderson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020447": {
+"case_number": "2026-CVG-020447",
+"plaintiff": "4FISHS, LLC",
+"defendant": "Brandon Davis",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020449": {
+"case_number": "2026-CVG-020449",
+"plaintiff": "3690 Bosworth LLC",
+"defendant": "Myreon Morsee",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020474": {
+"case_number": "2026-CVG-020474",
+"plaintiff": "Mustard Seed Haven LLC",
+"defendant": "Austine Oduputeh",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-19",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-016480": {
+"case_number": "2026-CVG-016480",
+"plaintiff": "Goldfinch Real Estate W.W LLC",
+"defendant": "Jenora Cloud",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-018094": {
+"case_number": "2026-CVG-018094",
+"plaintiff": "Ronald Hardin",
+"defendant": "Shyla Bendekovich",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-018781": {
+"case_number": "2026-CVG-018781",
+"plaintiff": "Jy Properties Real Estate LLC",
+"defendant": "Tamiya Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020475": {
+"case_number": "2026-CVG-020475",
+"plaintiff": "US Bank Trust National Association",
+"defendant": "Lamont Keith",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020478": {
+"case_number": "2026-CVG-020478",
+"plaintiff": "JH Ohio II LLC",
+"defendant": "Michael Tecco",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020479": {
+"case_number": "2026-CVG-020479",
+"plaintiff": "JRE Holdings I LLC",
+"defendant": "Jessica Mounts",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020480": {
+"case_number": "2026-CVG-020480",
+"plaintiff": "Albert Berry",
+"defendant": "Jafus Berry",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020504": {
+"case_number": "2026-CVG-020504",
+"plaintiff": "Bechara Soueidi",
+"defendant": "Oscar Rivera",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020505": {
+"case_number": "2026-CVG-020505",
+"plaintiff": "Ashim Kapai",
+"defendant": "Breona Jarabek",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020506": {
+"case_number": "2026-CVG-020506",
+"plaintiff": "THH Realty LLC",
+"defendant": "Dearies Hope",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020507": {
+"case_number": "2026-CVG-020507",
+"plaintiff": "Matt Patt LLC",
+"defendant": "Tatyana Turner",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020508": {
+"case_number": "2026-CVG-020508",
+"plaintiff": "Aaron Kelly",
+"defendant": "David Bryant",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020509": {
+"case_number": "2026-CVG-020509",
+"plaintiff": "Luna Capital Investments LLC",
+"defendant": "Aniya Graves",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020510": {
+"case_number": "2026-CVG-020510",
+"plaintiff": "Freshfield Holdings LLC",
+"defendant": "Rhamir Montgomery",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020511": {
+"case_number": "2026-CVG-020511",
+"plaintiff": "Marian Odocha",
+"defendant": "Allice Vega",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020513": {
+"case_number": "2026-CVG-020513",
+"plaintiff": "Kyle Goleman",
+"defendant": "La'Dasia Mitchell",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020514": {
+"case_number": "2026-CVG-020514",
+"plaintiff": "Krookedwood 24 LLC",
+"defendant": "Erik Santiago",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020515": {
+"case_number": "2026-CVG-020515",
+"plaintiff": "Cleveland Property Management Group LLC",
+"defendant": "Lamontaca Priah",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020516": {
+"case_number": "2026-CVG-020516",
+"plaintiff": "E-Global Investments LLC",
+"defendant": "Serenity Wellness Center",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020517": {
+"case_number": "2026-CVG-020517",
+"plaintiff": "Ayodhya Properties LLC",
+"defendant": "Tina Uitenham",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020518": {
+"case_number": "2026-CVG-020518",
+"plaintiff": "Joseph Jolley",
+"defendant": "Carina Roberts",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020519": {
+"case_number": "2026-CVG-020519",
+"plaintiff": "Ayodhya Properties LLC",
+"defendant": "Terrion Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020520": {
+"case_number": "2026-CVG-020520",
+"plaintiff": "Lester Apartments LLC",
+"defendant": "Delvonne Newett",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020521": {
+"case_number": "2026-CVG-020521",
+"plaintiff": "Michael Pina",
+"defendant": "Sylviea Robinson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020522": {
+"case_number": "2026-CVG-020522",
+"plaintiff": "Zukaa Mehjazi",
+"defendant": "Johnathan Crosby",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020523": {
+"case_number": "2026-CVG-020523",
+"plaintiff": "Daniel Maldonado",
+"defendant": "Taneal Hall",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020528": {
+"case_number": "2026-CVG-020528",
+"plaintiff": "SISU Refund 1 LLC",
+"defendant": "Tasha Pullie",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020530": {
+"case_number": "2026-CVG-020530",
+"plaintiff": "Green Window Properties LLC",
+"defendant": "Thad Hawley",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020533": {
+"case_number": "2026-CVG-020533",
+"plaintiff": "Craig Imazumi",
+"defendant": "Nino Parris",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020534": {
+"case_number": "2026-CVG-020534",
+"plaintiff": "79 Fulton LLC",
+"defendant": "Michael Sherrard",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020535": {
+"case_number": "2026-CVG-020535",
+"plaintiff": "Benjamin Rabuchin",
+"defendant": "Tyree Cobb",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020537": {
+"case_number": "2026-CVG-020537",
+"plaintiff": "Seraglio Holdings LLC",
+"defendant": "Avishkar Etwaroo",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020539": {
+"case_number": "2026-CVG-020539",
+"plaintiff": "Root Property Ventures LLC",
+"defendant": "Latoya Mcgraw",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020543": {
+"case_number": "2026-CVG-020543",
+"plaintiff": "Fenua Cool House LLC",
+"defendant": "Hilary Hahn",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020547": {
+"case_number": "2026-CVG-020547",
+"plaintiff": "Destiny Legacy Group LLC",
+"defendant": "Latoya Steele",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020556": {
+"case_number": "2026-CVG-020556",
+"plaintiff": "Tristan Kelly",
+"defendant": "Carmen Gonzalez",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020562": {
+"case_number": "2026-CVG-020562",
+"plaintiff": "Frit Cam LLC",
+"defendant": "Corysmar Santana",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020563": {
+"case_number": "2026-CVG-020563",
+"plaintiff": "Leadimize Management LLC",
+"defendant": "Terrella Reeves",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020564": {
+"case_number": "2026-CVG-020564",
+"plaintiff": "12224 Fairview Court LLC",
+"defendant": "James Smallwood",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020565": {
+"case_number": "2026-CVG-020565",
+"plaintiff": "Birgo Realty LLC",
+"defendant": "Zachary Green",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020567": {
+"case_number": "2026-CVG-020567",
+"plaintiff": "ME Real Estate Cleveland LLC",
+"defendant": "Bre'Onna Love",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020568": {
+"case_number": "2026-CVG-020568",
+"plaintiff": "Landmark Lakeshore LLC",
+"defendant": "Gregory Nowak",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020569": {
+"case_number": "2026-CVG-020569",
+"plaintiff": "NRP Management LLC",
+"defendant": "Shamone Gooch",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020570": {
+"case_number": "2026-CVG-020570",
+"plaintiff": "K&D Management LLC",
+"defendant": "Brenda Rooney",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020572": {
+"case_number": "2026-CVG-020572",
+"plaintiff": "Winton Carter LLC",
+"defendant": "Belinda Sankey",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020575": {
+"case_number": "2026-CVG-020575",
+"plaintiff": "Winton Carter LLC",
+"defendant": "Darkiesha Smith",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020576": {
+"case_number": "2026-CVG-020576",
+"plaintiff": "1380 E 85th Street LLC",
+"defendant": "Charleda McCrary",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020577": {
+"case_number": "2026-CVG-020577",
+"plaintiff": "Brian Coughlin",
+"defendant": "Taneeka Delaney",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020578": {
+"case_number": "2026-CVG-020578",
+"plaintiff": "A & O Real Estate Investments LLC",
+"defendant": "Harry Prichard, Jr",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020579": {
+"case_number": "2026-CVG-020579",
+"plaintiff": "Birgo Realty LLC",
+"defendant": "Patricia Johnson",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020580": {
+"case_number": "2026-CVG-020580",
+"plaintiff": "Salvatorre Cucci",
+"defendant": "John Doe",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020581": {
+"case_number": "2026-CVG-020581",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Tori Miller",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020582": {
+"case_number": "2026-CVG-020582",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Sandra Buckner",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020583": {
+"case_number": "2026-CVG-020583",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Ashley Curry",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020584": {
+"case_number": "2026-CVG-020584",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Gina Cano",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020585": {
+"case_number": "2026-CVG-020585",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Briana Swinney",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020586": {
+"case_number": "2026-CVG-020586",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Amanda Linder",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020587": {
+"case_number": "2026-CVG-020587",
+"plaintiff": "Fischer Asset Management LLC",
+"defendant": "Lelexus Broadnax",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020588": {
+"case_number": "2026-CVG-020588",
+"plaintiff": "Arbor Park Phase One Associates LP",
+"defendant": "Malikah Beeks",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020589": {
+"case_number": "2026-CVG-020589",
+"plaintiff": "Arbor Park Phase One Associates LP",
+"defendant": "Yomayrelis Vazquez-Coll",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020590": {
+"case_number": "2026-CVG-020590",
+"plaintiff": "Shoreway Rentals LLC",
+"defendant": "Loretta Fuller",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020591": {
+"case_number": "2026-CVG-020591",
+"plaintiff": "Flaxilia Investments LLC",
+"defendant": "Joyce Harris-Scott",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020592": {
+"case_number": "2026-CVG-020592",
+"plaintiff": "Comet Management Services Inc",
+"defendant": "Seku Shabazz",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020593": {
+"case_number": "2026-CVG-020593",
+"plaintiff": "Winton Carter LLC",
+"defendant": "Eumaldin Santiago",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020595": {
+"case_number": "2026-CVG-020595",
+"plaintiff": "Janus Rentals LLC",
+"defendant": "Nadajziah Vaerner",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020596": {
+"case_number": "2026-CVG-020596",
+"plaintiff": "Dorothy Pitts",
+"defendant": "Rashad Dansby",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020597": {
+"case_number": "2026-CVG-020597",
+"plaintiff": "3352 W 95 LLC",
+"defendant": "Marilyn Griffin",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020598": {
+"case_number": "2026-CVG-020598",
+"plaintiff": "3546 Bosworth LLC",
+"defendant": "Andrea Ayers",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020599": {
+"case_number": "2026-CVG-020599",
+"plaintiff": "Travis Usher",
+"defendant": "Richard Wells",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020605": {
+"case_number": "2026-CVG-020605",
+"plaintiff": "Magniv Realty LLC",
+"defendant": "Christian Pialet",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020606": {
+"case_number": "2026-CVG-020606",
+"plaintiff": "Birdhouse Homes YV CA LLC",
+"defendant": "Fallon Troup",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
+},
+"2026-CVG-020607": {
+"case_number": "2026-CVG-020607",
+"plaintiff": "Moga 2 Real Estate",
+"defendant": "Dnaya Williams",
+"hearing_type": "Housing Eviction",
+"hearing_date": "2026-11-20",
+"first_seen": "2026-11-13"
 }
 }
